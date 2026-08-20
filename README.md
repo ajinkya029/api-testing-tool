@@ -234,7 +234,7 @@ api-testing-tool/
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/api-testing-tool.git
+git clone https://github.com/ajinkya029/api-testing-tool.git
 ```
 
 ## 2. Navigate into the project
